@@ -27,10 +27,10 @@ const features = [
     path: "/gallery",
   },
   {
-    icon: "ShoppingBag",
-    title: "Каталог",
-    desc: "Схемы, пряжа и всё для творчества",
-    path: "/catalog",
+    icon: "Rss",
+    title: "Лента",
+    desc: "Посты и идеи от участников сообщества",
+    path: "/feed",
   },
 ];
 

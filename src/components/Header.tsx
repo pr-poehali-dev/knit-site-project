@@ -8,7 +8,7 @@ const navLinks = [
   { label: "О вязании", path: "/about-knitting" },
   { label: "О моде", path: "/fashion" },
   { label: "Галерея", path: "/gallery" },
-  { label: "Каталог", path: "/catalog" },
+  { label: "Лента", path: "/feed" },
 ];
 
 export default function Header() {

@@ -10,7 +10,7 @@ import Masterclasses from "./pages/Masterclasses";
 import AboutKnitting from "./pages/AboutKnitting";
 import Fashion from "./pages/Fashion";
 import Gallery from "./pages/Gallery";
-import Catalog from "./pages/Catalog";
+import Feed from "./pages/Feed";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -30,7 +30,7 @@ const App = () => (
               <Route path="/about-knitting" element={<AboutKnitting />} />
               <Route path="/fashion" element={<Fashion />} />
               <Route path="/gallery" element={<Gallery />} />
-              <Route path="/catalog" element={<Catalog />} />
+              <Route path="/feed" element={<Feed />} />
               {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
               <Route path="*" element={<NotFound />} />
             </Routes>

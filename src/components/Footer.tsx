@@ -40,8 +40,8 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link to="/catalog" className="hover:text-[var(--gold)] transition-colors">
-                  Каталог
+                <Link to="/feed" className="hover:text-[var(--gold)] transition-colors">
+                  Лента
                 </Link>
               </li>
             </ul>
