@@ -43,7 +43,7 @@ export default function Index() {
           Тепло в каждой петле
         </p>
         <h1 className="font-cormorant text-5xl md:text-7xl font-semibold text-[var(--deep-brown)] leading-tight mb-6 animate-fade-in-up">
-          Нить & Стиль
+          Рукотворная красота
         </h1>
         <div className="divider-gold w-40 mx-auto mb-6" />
         <p className="text-lg text-[var(--text-muted)] max-w-xl mx-auto font-golos mb-10 animate-fade-in-up delay-200">

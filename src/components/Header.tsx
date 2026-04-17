@@ -20,7 +20,7 @@ export default function Header() {
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link to="/" className="flex items-center gap-2">
           <span className="text-2xl font-cormorant font-semibold text-[var(--deep-brown)] tracking-wide">
-            Нить & Стиль
+            Рукотворная красота
           </span>
         </Link>
 

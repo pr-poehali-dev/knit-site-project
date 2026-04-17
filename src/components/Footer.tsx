@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="font-cormorant text-2xl font-semibold mb-3">
-              Нить & Стиль
+              Рукотворная красота
             </h3>
             <p className="text-sm text-[var(--beige)] leading-relaxed">
               Всё о вязании: мастер-классы, вдохновение, мода и уютные идеи для
